@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=216
+
+If a file contains filenames, each in a separate line,
+then a filename can be played or enqueued into xmms
+by pressing Shift+F3 and F3 respectively.
+
+This script requires no external dependencies except 
+xmms.
